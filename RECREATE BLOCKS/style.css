@@ -69,6 +69,7 @@ li.wide {
     background-color: green;
     padding: 30px;  
     margin-top: 300px;
+    width: 940px;
 }
 
 #Second-yellow {
@@ -139,6 +140,7 @@ li.wider {
 #Third-yellow {
     display:block;
     background-color: yellow;
+    width: 940px;
     padding: 30px;  
     display: flex; 
     position: relative;
@@ -155,7 +157,7 @@ li.wider {
 
 #Third-orange {
     background-color: orange;
-    width: 900px;
+    width: 720px;
     padding: 40px;
     position: relative;
     margin-left: 200px;
@@ -166,7 +168,7 @@ li.wider {
 #Third-red {
     background-color: red;
     display: flex;
-    width: 900px;
+    width: 720px;
     padding: 40px;
     margin-top: 10px;
     position: relative;
@@ -176,7 +178,7 @@ li.wider {
 
 #Third-green {
     background-color: green;
-    width: 900px;
+    width: 720px;
     padding: 40px;
     margin-top: 10px;
     position: relative;
@@ -201,6 +203,7 @@ li.wide-wrap {
 #fourth-green {
     background-color: green;
     padding: 30px;
+    width: 930px;
     
 }
 
