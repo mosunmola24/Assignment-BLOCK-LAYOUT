@@ -1,0 +1,250 @@
+/* FIRST DESIGN */
+#yellow {
+    display:block;
+    background-color:yellow;
+    width: 100px;
+    height: 300px;
+    text-align: center;      
+}
+
+#RED {
+    display:block;
+    background-color:red;
+    width: 100px;
+    height: 300px;
+    margin-left: 30px;
+    text-align: center;   
+}
+
+#GREEN {
+    display:block;
+    background-color: green;
+    width: 100px;
+    height: 300px;
+    margin-left: 30px;
+    text-align: center;   
+}
+
+#ORANGE {
+    display:block;
+    background-color: orange;
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    text-align: center;   
+}
+
+#BLUE {
+    display:block;
+    background-color: blue;
+    width: 70px;
+    height: 300px;
+    margin-left: 30px;
+    text-align: center;   
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    width: 20px;
+    : center;
+}
+
+.flex-container {
+    display: flex; 
+}
+
+/* FIRST DESIGN END */
+
+
+li.wide {
+    padding: 10px;
+    width: 150px;
+    
+}
+#Second-GREEN {
+    display:block;
+    background-color: green;
+    padding: 30px;  
+    margin-top: 300px;
+}
+
+#Second-yellow {
+    display:block;
+    background-color:yellow;
+    width: 300px;
+    height: 300px;
+    text-align: center;   
+    margin-top: 30px;   
+}
+
+
+#Second-ORANGE {
+    display: block;
+    background-color: orange;
+    width: 250px;
+    height: 120px;
+    margin-left: 30px;
+    text-align:s2art;
+    padding-top: 20px;  
+    padding-left: 30px;
+    position: relative;
+    margin-left: 350px;
+    top: -300px;
+
+
+}
+
+
+#Second-BLUE {
+    display: block;
+    background-color: blue;
+    width: 250px;
+    height: 120px;
+    margin-left: 30px;
+    text-align:start;
+    padding-top: 20px;  
+    padding-left: 30px;
+    position: relative;
+    top: -280px;
+    margin-left: 350px;
+
+}
+
+#Second-RED {
+    display:block;
+    background-color:red;
+    width: 300px;
+    height: 300px;
+    text-align: center; 
+    position: relative;
+    margin-left: 700px; 
+    top: -580px;
+       
+}
+
+.Second-flexcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+/* SECONND DESIGN END */
+li.wider {
+    padding: 10px;
+    width: 300px;
+}
+
+#Third-yellow {
+    display:block;
+    background-color: yellow;
+    padding: 30px;  
+    display: flex; 
+    position: relative;
+    margin-top: -300px;
+}
+
+#Third-blue {
+    background-color: blue;
+    width: 150px;
+    height: 500px;
+    text-align: center;
+    
+}
+
+#Third-orange {
+    background-color: orange;
+    width: 900px;
+    padding: 40px;
+    position: relative;
+    margin-left: 200px;
+    top: -500px;
+    
+}
+
+#Third-red {
+    background-color: red;
+    display: flex;
+    width: 900px;
+    padding: 40px;
+    margin-top: 10px;
+    position: relative;
+    top: -450px;
+    margin-left: 200px;
+}
+
+#Third-green {
+    background-color: green;
+    width: 900px;
+    padding: 40px;
+    margin-top: 10px;
+    position: relative;
+    top: -410px;
+    margin-left: 200px;
+}
+
+.Third-flexcontainer {
+
+}
+
+/* THIRD DESIGN END */
+
+/* FOURTH DESIGN START */
+li.wide-wrap {
+    width: 50px;
+    height: 50px; 
+    margin-top: 50px; 
+    
+}
+
+#fourth-green {
+    background-color: green;
+    padding: 30px;
+    
+}
+
+#fourth-yellow {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+
+#fourth-red {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: 350px;
+    top: -300px;
+}
+
+
+#fourth-blue {
+    background-color: blue;
+    width: 250px;
+    height: 400px;
+    padding: 20px;
+    position: relative;
+    margin-left: 700px;
+    top: -600px;
+
+}
+
+#fourth-orange {
+    background-color: orange;
+    width: 600px;
+    padding: 40px;
+    margin-top: -730px;
+
+}
+
